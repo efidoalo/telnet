@@ -46,8 +46,6 @@
 #define WILL 251
 #define GA 249
 
-// Application specific defines
-#define RECV_BUFFER_LEN 100000
 
 
 struct thread_shared_data
